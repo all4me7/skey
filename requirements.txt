@@ -1,0 +1,11 @@
+art==6.0
+certifi==2023.7.22
+charset-normalizer==3.2.0
+colorama==0.4.6
+decorator==5.1.1
+idna==3.4
+jsonpath-ng==1.5.3
+ply==3.11
+requests==2.31.0
+six==1.16.0
+urllib3==2.0.4
